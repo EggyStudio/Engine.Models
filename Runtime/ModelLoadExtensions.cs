@@ -137,4 +137,3 @@ public static class ModelSpawn
     /// <inheritdoc cref="SceneSpawn.WithPurposes(ScenePurposeMask)"/>
     public static SceneSpawnSettings WithPurposes(ScenePurposeMask purposes) => SceneSpawn.WithPurposes(purposes);
 }
-
